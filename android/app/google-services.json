@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241431261599",
+    "project_id": "shop-marter",
+    "storage_bucket": "shop-marter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241431261599:android:c7e1c5da56eb90031ccdaa",
+        "android_client_info": {
+          "package_name": "com.haidinh.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241431261599-pc7l8m1b6urlee8u9c42mi7f2d299g5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk6aqYp7Vtfagr1qNQpLSmguVtt_j9phU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241431261599-pc7l8m1b6urlee8u9c42mi7f2d299g5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
